@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ascii-me.png" width="380" alt="ASCII art skull" />
+  <img src="assets/image.png" width="380" alt="ASCII art skull" />
 </p>
 
 <h1 align="center">Sanket Khatri</h1>
