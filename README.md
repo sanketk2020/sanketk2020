@@ -61,10 +61,6 @@ A lightweight debug tool for iOS devs to instantly see which screen they're on w
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketk2020&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<p align="center">
   <a href="https://github.com/sanketk2020">GitHub</a> ·
   <a href="https://www.linkedin.com/in/sanket-khatri-62255017a/">LinkedIn</a> ·
   <a href="mailto:sanketk.j.2020@gmail.com">Email</a>
