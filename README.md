@@ -63,7 +63,8 @@ A lightweight debug tool for iOS devs to instantly see which screen they're on w
 <p align="center">
   <a href="https://github.com/sanketk2020">GitHub</a> ·
   <a href="https://www.linkedin.com/in/sanket-khatri-62255017a/">LinkedIn</a> ·
-  <a href="mailto:sanketk.j.2020@gmail.com">Email</a>
+  <a href="mailto:sanketk.j.2020@gmail.com">Email</a> ·
+  <a href="https://www.upwork.com/freelancers/~01b45f96a7dda945bb?mp_source=share">Upwork</a>
 </p>
 
 <p align="center">
