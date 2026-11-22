@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+  <a href="https://sanketk2020.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6B4FD8?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sanket-khatri-62255017a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
